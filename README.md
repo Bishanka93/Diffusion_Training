@@ -198,7 +198,7 @@ Include the following outputs from your completed experiment:
 Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/Bishanka93/Diffusion_Training.git>
 ```
 
 Navigate to the project directory:
